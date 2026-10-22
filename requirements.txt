@@ -1,0 +1,8 @@
+Requirements for the Saudi Employee Attrition Prediction notebooks
+
+Covers the tree-based and non-tree-based model notebooks.
+
+Install with: python -m pip install -r requirements.txt
+
+numpy pandas matplotlib seaborn scikit-learn imbalanced-learn scipy
+statsmodels shap catboost xgboost lightgbm jupyter ipykernel
