@@ -24,10 +24,8 @@ Employee-Attrition-Prediction/
 │   └── CM_NonTreeFinal_22_10_26.ipynb
 │
 ├── data/
-│   └── README.md
-│
-└── results/
     └── README.md
+
 ```
 
 ---
