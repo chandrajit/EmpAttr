@@ -20,12 +20,14 @@ Employee-Attrition-Prediction/
 ├── requirements.txt
 │
 ├── notebooks/
-│   ├── CM_TreeFinal_3_9_26-Copy.ipynb
-│   └── CM_NonTreeFinal_22_10_26.ipynb
+│   ├── CM_TreeFinal_3_9_26.ipynb
+│   └── CM_NonTreeFinal_3_9_26.ipynb
 │
 ├── data/
+│   └── README.md
+│
+└── results/
     └── README.md
-
 ```
 
 ---
