@@ -215,19 +215,19 @@ The exact library versions used in the analysis should be listed in the `require
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
+git clone https://github.com/YOUR-USERNAME/Employee-Attrition-Prediction.git
 ```
 
 Navigate to the repository directory:
 
 ```bash
-cd YOUR-REPOSITORY-NAME
+cd Employee-Attrition-Prediction
 ```
 
 Install the required libraries:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 Launch Jupyter Notebook:
